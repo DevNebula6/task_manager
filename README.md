@@ -763,11 +763,12 @@ final highPriority = firestore
 
 ## 📞 Contact & Links
 
-**Developer**: Vineet Prakash Diwakar
-**Linkedin**:[Vineet Prakash](www.linkedin.com/in/vineet-prakash-diwakar-853159327)
+**Developer**: Vineet Prakash Diwakar  
+**LinkedIn**: [Vineet Prakash Diwakar](https://www.linkedin.com/in/vineet-prakash-diwakar-853159327)  
+**Email**: btech15014.22@bitmesra.ac.in  
 **GitHub**: [@DevNebula6](https://github.com/DevNebula6)  
 **Project Repository**: [task_manager](https://github.com/DevNebula6/task_manager)  
-**APK Download**: [Google Drive](https://drive.google.com/file/d/1p718Fz8en-MR73lZV1qLXCvTnoO4CfLN/view?usp=drive_link)
+**APK Download**: [Google Drive Link](https://drive.google.com/file/d/1p718Fz8en-MR73lZV1qLXCvTnoO4CfLN/view?usp=drive_link)
 
 ---
 
@@ -775,7 +776,11 @@ final highPriority = firestore
 
 ### Built with ❤️ using Flutter & Firebase
 
+**Ready for production. Ready for your team.**
 
-[⬇️ Download APK](https://drive.google.com/file/d/1p718Fz8en-MR73lZV1qLXCvTnoO4CfLN/view?usp=drive_link) | [📧 Contact](mailto:btech15014.22@bitmesra.ac.in) | [🔗 LinkedIn](www.linkedin.com/in/vineet-prakash-diwakar-853159327)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1p718Fz8en-MR73lZV1qLXCvTnoO4CfLN/view?usp=drive_link)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:btech15014.22@bitmesra.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vineet-prakash-diwakar-853159327)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/DevNebula6)
 
 </div>
